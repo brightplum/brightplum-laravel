@@ -1,0 +1,5 @@
+name: brightplum
+recipe: laravel
+config:
+  php: '7.3'
+  webroot: public
